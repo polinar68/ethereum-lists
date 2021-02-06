@@ -1,3 +1,4 @@
+'COVID19'
 # Ethereum-lists
 
 [![Travis (.org)](https://img.shields.io/travis/MyEtherWallet/ethereum-lists.svg)](https://travis-ci.org/MyEtherWallet/ethereum-lists)
